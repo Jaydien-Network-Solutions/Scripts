@@ -1,1 +1,1 @@
-Write-Output "Hello from Jaydien Script Runner! 👋"
+Write-Output "Hello from Jaydien Script Runner
